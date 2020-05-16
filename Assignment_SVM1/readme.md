@@ -1,5 +1,7 @@
 # Generate a separable dataset of size 1000 and 2 features. Plot the samples on a graph and mark the support vectors for the dataset.
 1.python file https://github.com/vedamurthy04/assignment/blob/master/Assignment_SVM1/svm_1.py
+
+
 2.juypter file https://github.com/vedamurthy04/assignment/blob/master/Assignment_SVM1/svm_1a.ipynb
 # show that changing the vectors other than the support vectors has no effect on the decision boundary
 
