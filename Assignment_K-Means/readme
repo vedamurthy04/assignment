@@ -1,4 +1,4 @@
-#K-Means
+# K-Means
  Build a K-Means Model for the given Dataset (You can use the library funct.)
  Implement the BIC function that takes the cluster and data points and returns BIC value
  Implement a function to pick the best K value, that is maximize the BIC.
